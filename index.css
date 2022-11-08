@@ -1,0 +1,14 @@
+.resizer-container {
+  font-family: monospace, sans-serif;
+  font-weight: bold;
+  padding: 20px;
+  width: 500px;
+}
+
+.resizer-container__dimensions {
+  padding: 20px 0;
+}
+
+.resizer-container__canvas {
+  max-width: 100%;
+}
